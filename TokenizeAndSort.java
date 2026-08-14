@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.TreeSet;
-public class TokenizeAndSort
+public class TokenizerAndSort
 {
 public static void main(String[] args)
 
