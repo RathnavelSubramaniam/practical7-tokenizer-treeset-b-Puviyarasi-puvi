@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.TreeSet;
 public class TokenizerAndSort
 {
-public static void main(String[] args)
+public static void main(String[]args)
 
  {
 
